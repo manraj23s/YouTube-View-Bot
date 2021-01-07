@@ -1,6 +1,6 @@
-search_string = Your Search Here
-min_watch = 10
-max_watch = 45
-wait_after = 15
+search_string = KERI GAL - BHALWAAN | SIGNATURE BY SB (slowed + reverb)
+min_watch = 75
+max_watch = 138
+wait_after = 10
 views = 100
 multicore = False
